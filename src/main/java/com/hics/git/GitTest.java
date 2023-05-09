@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello, June!");
         System.out.println("hello, July!");
         System.out.println("hello, July fighting!");
+        System.out.println("master commit2");
     }
 }
