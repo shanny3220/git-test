@@ -6,5 +6,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello, May!");
         System.out.println("hello, June!");
+        System.out.println("hello, July!");
     }
 }
